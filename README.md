@@ -4,7 +4,9 @@ This repository contains the code associated with the classification workflow de
 
 <br />
 
-[<p align="center"><img width="644" alt="Screenshot 2023-06-13 160742" src="https://github.com/dudelguy/class_workflow_libs/assets/130980491/ee8b2ca3-b660-41c2-88e9-ad7c33352b8b"></p>](https://doi.org/10.1016/j.sab.2022.106370)
+<p align="center">
+<img width="644" alt="Screenshot 2023-06-13 160742" src="https://github.com/dudelguy/class_workflow_libs/assets/130980491/a0a6f615-0fc9-4e5c-9eff-139c8bf4eb03">
+</p>
 
 <br />
 
